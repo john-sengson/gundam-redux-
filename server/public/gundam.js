@@ -11,7 +11,7 @@ router.get('/', (req, res) => {
       const viewData = {
         gundam : gundam }
         res.status(200).json(gundam)
-        res.render('home', viewData)
+        res.render(viewData)
       })   
 })
 
