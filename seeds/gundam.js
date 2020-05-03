@@ -16,13 +16,13 @@ exports.seed = function (knex) {
         { id: 7, unit: "Sinanju", grade: "Master grade", scale: "1/100", price: "$139.99", picture: "https://www.gundam.co.nz/wp-content/uploads/2016/04/02-MG-Sinanju-100x100.jpg" },
         { id: 8, unit: "Petit'gguy Winning Yellow", grade: "high Grade", scale: "1/144", price: "$19.99", picture: "https://www.gundam.co.nz/wp-content/uploads/2016/09/51lS-avqAIL._SL1200_-100x100.jpg" },
         { id: 9, unit: "RX-Zeromaru", grade: "SD", scale: "SD", price: "$29.99", picture: "https://www.gundam.co.nz/wp-content/uploads/2018/09/sdbd-rx-zero-maru-1-1-100x100.jpg" },
-        { id: 9, unit: "00 Raiser Gundam", grade: "Perfect Grade", scale: "1/60", price: "$399.00", picture: "https://www.gundam.co.nz/wp-content/uploads/2016/04/03-Perfect-Grade-00-Raiser-100x100.jpg" },
-        { id: 10, unit: "Shin Musha Gundam", grade: "Master Grade", scale: "1/100", price: "$120.00", picture: "https://www.gundam.co.nz/wp-content/uploads/2016/06/spd_20090318202851_b-100x100.jpg" },
-        { id: 11, unit: "Gundam Barbatos Lupus Rex", grade: "Real Grade", scale: "1/100", price: "$95.99", picture: "https://www.gundam.co.nz/wp-content/uploads/2017/01/100-full-mechanics-gundam-barbatos-lupus-rex-1-1-100x100.jpg" },
-        { id: 12, unit: "Tallgeese", grade: "Real Grade", scale: "1/100", price: "$69.00", picture: "https://www.gundam.co.nz/wp-content/uploads/2016/04/42-OZ-00MS-Tallgeese-EW-100x100.jpg" },
-        { id: 13, unit: "Lunagazer Gundam", grade: "High Grade", scale: "1/144", price: "$49.99", picture: "https://www.gundam.co.nz/wp-content/uploads/2017/01/bann14477_2_1484028874-100x100.jpg" },
-        { id: 14, unit: "Gundam Bael", grade: "High Grade", scale: "1/144", price: "$39.99", picture: "https://www.gundam.co.nz/wp-content/uploads/2017/02/hg-gundam-bael-1-100x100.jpg" },
-        { id: 15, unit: "God Gundam", grade: "High Resolution", scale: "1/100", price: "$249.99", picture: "https://www.gundam.co.nz/wp-content/uploads/2019/07/bans58206_1-100x100.jpg" },
+        { id: 10, unit: "00 Raiser Gundam", grade: "Perfect Grade", scale: "1/60", price: "$399.00", picture: "https://www.gundam.co.nz/wp-content/uploads/2016/04/03-Perfect-Grade-00-Raiser-100x100.jpg" },
+        { id: 11, unit: "Shin Musha Gundam", grade: "Master Grade", scale: "1/100", price: "$120.00", picture: "https://www.gundam.co.nz/wp-content/uploads/2016/06/spd_20090318202851_b-100x100.jpg" },
+        { id: 12, unit: "Gundam Barbatos Lupus Rex", grade: "Real Grade", scale: "1/100", price: "$95.99", picture: "https://www.gundam.co.nz/wp-content/uploads/2017/01/100-full-mechanics-gundam-barbatos-lupus-rex-1-1-100x100.jpg" },
+        { id: 13, unit: "Tallgeese", grade: "Real Grade", scale: "1/100", price: "$69.00", picture: "https://www.gundam.co.nz/wp-content/uploads/2016/04/42-OZ-00MS-Tallgeese-EW-100x100.jpg" },
+        { id: 14, unit: "Lunagazer Gundam", grade: "High Grade", scale: "1/144", price: "$49.99", picture: "https://www.gundam.co.nz/wp-content/uploads/2017/01/bann14477_2_1484028874-100x100.jpg" },
+        { id: 15, unit: "Gundam Bael", grade: "High Grade", scale: "1/144", price: "$39.99", picture: "https://www.gundam.co.nz/wp-content/uploads/2017/02/hg-gundam-bael-1-100x100.jpg" },
+        { id: 16, unit: "God Gundam", grade: "High Resolution", scale: "1/100", price: "$249.99", picture: "https://www.gundam.co.nz/wp-content/uploads/2019/07/bans58206_1-100x100.jpg" },
 
       ]);
     });

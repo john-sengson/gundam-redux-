@@ -7,6 +7,7 @@
 -[x] Create the repo
 -[x] Update the ReadME
 -[x] Set up the migrations and seeds
+-[ ] Make api routes for the table
 -[ ] Make homepage component
 -[ ] Make Gundam List Component
 -[ ] Make Checkout Component
